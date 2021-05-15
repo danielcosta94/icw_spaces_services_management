@@ -1,0 +1,24 @@
+#property-map {
+  height: 500px;
+}
+
+.inline-block {
+  display: inline;
+  width: 75%;
+}
+
+.padding-fix-left {
+  padding-left: 5px;
+}
+
+.btn-delete:hover {
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+
+.btn-delete {
+  color: white;
+  background-color: #2b2b2b;
+  border-color: black;
+}

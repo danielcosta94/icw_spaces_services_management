@@ -1,0 +1,83 @@
+.container-image-background {
+    color: #fff;
+    font-weight: bolder;
+    background: url(../storage/images/maxresdefault.jpg);
+    -webkit-background-size: cover; /*for webKit*/
+    -moz-background-size: cover; /*Mozilla*/
+    -o-background-size: cover; /*opera*/
+    background-size: cover; /*generic*/
+    height: 800px;
+    background-position: center;  /* Internet Explorer 7/8 */
+}
+
+.home_page_content {
+    padding-top: 50px;
+}
+
+.welcome-text {
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    position: relative;
+    text-transform: none;
+}
+
+.main-menu-txt {
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.white-links > a {
+    color: white;
+    display: block;
+}
+
+.btn_margin {
+    margin: 10px;
+}
+
+.img-background {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.layout-story-nav {
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    z-index: 2;
+    margin-bottom:5rem;
+}
+
+.tab-nav-minimal-item {
+    display: inline-block;
+    margin-bottom: -1px;
+}
+
+.tab-nav-minimal {
+    display: inline-block;
+    margin: .625rem auto 3.75rem;
+    padding-right: 1.875rem;
+    padding-left: 1.875rem;
+    border-bottom: 1px solid #d9d5d2;
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+    text-align: center;
+}
+
+.layout-story-content {
+    max-width: 80rem;
+    width: 100%;
+    margin: auto auto;
+    padding-right: .9375rem;
+    padding-left: .9375rem;
+}
+
+.content-description {
+    text-align: justify;
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
